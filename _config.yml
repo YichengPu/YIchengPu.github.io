@@ -10,8 +10,8 @@ baseurl:          ''
 title:            YichengPu
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
-description:      
-
+description:       >
+  Yicheng Pu
 
 # The tags listed as entries in the sidebar
 sidebar_tags:     [jekyll, hyde]
@@ -31,7 +31,7 @@ author:
   disqus:         qwtel
 
   # This photo will be used in the about section
-  photo:          /public/img/IMG_6495.jpg
+  photo:          https://github.com/YichengPu/YIchengPu.github.io/blob/master/public/img/IMG_6495.JPG
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:          |
