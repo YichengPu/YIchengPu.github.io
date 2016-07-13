@@ -31,7 +31,7 @@ author:
   disqus:         qwtel
 
   # This photo will be used in the about section
-  photo:          /public/img/IMG_6495_320.JPG
+  photo:          http://i4.piimg.com/567571/43913612226f0b5c.jpg
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:          |
