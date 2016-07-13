@@ -7,40 +7,38 @@ url:              https://YichengPu.github.io
 # Set to '' in case of hosting on `http://<your-github-name>.github.io`
 baseurl:          ''
 
-title:            Hydejack
+title:            YichengPu
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:      >
-  A pretentious two-column [Jekyll](http://jekyllrb.com/) theme, stolen by [`@qwtel`](https://twitter.com/qwtel)
-  from [Hyde](http://hyde.getpoole.com).
-  You could say it was.. [hydejacked](http://media3.giphy.com/media/makedRIckZBW8/giphy.gif).
+Yicheng Pu’s personal blog.
+
 
 # The tags listed as entries in the sidebar
 sidebar_tags:     [jekyll, hyde]
 
 # Fallback image and color if not overwritten for tag or post
-image:            /public/img/81.jpg
+image:            /public/img/south-western.jpg
 color:            '#A85641'
 
 author:
   name:           'Yicheng Pu'
 
   # Setting social media usernames will add icons at the bottom of the sidebar
-  twitter:        qwtel
-  github:         qwtel
+  twitter:        
+  github:         YichengPu
 
   # Setting a disqus username will enable the comment section
   disqus:         qwtel
 
   # This photo will be used in the about section
-  photo:          http://qwtel.com/public/img/flo.jpg
+  photo:          /public/img/IMG_6495.jpg
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:          |
-    Hi, I'm Florian or [`@qwtel`](https://www.twitter.com/qwtel), which isn't an acronym,
-    I just [wanted a short username](http://qwtel.com/how-to-find-a-short-username) and that one happened to be available.
+    Hi, I'm Yicheng.
+    浦一成
 
-    Read my thoughts on [#software](http://qwtel.com/tag/software) and [#cryptoeconomics](http://qwtel.com/tag/cryptoeconomics).
 
 kramdown:
   math_engine: mathjax
