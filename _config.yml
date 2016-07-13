@@ -10,8 +10,7 @@ baseurl:          ''
 title:            YichengPu
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
-description:      >
-Yicheng Pu’s personal blog.
+description:      >Yicheng Pu’s personal blog.
 
 
 # The tags listed as entries in the sidebar
