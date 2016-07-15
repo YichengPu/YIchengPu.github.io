@@ -15,4 +15,4 @@ title: About
 
 {{ site.author.about }}
 
-[write something about self]
+Currently a senior undergraduate  studying in University of Illinois at Urbana Champaign, double major in Maths and Stats.
