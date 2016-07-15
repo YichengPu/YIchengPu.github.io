@@ -11,17 +11,16 @@
 #     *My Tag* is an example of how to define a custom tag.
 # ~~~
 
-hyde:
-  name: Hyde
+UCTC:
+  name: UCTC
   image: /public/img/1300.jpg
   color: '#949667'
   description: >
-    Hyde is a brazen two-column Jekyll theme that pairs a prominent sidebar with uncomplicated content.
-    It’s based on Poole, the Jekyll butler.
+    Code for Uchicago Trading Competition.
 
-jekyll:
-  name: Jekyll
+Trading:
+  name: Trading
   image: /public/img/81.jpg
   color: '#949667'
   description: >
-    Jekyll is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes.
+    Trading algorithm/research.
