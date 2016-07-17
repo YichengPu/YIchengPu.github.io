@@ -13,7 +13,7 @@
 
 UCTC:
   name: UCTC
-  image: /public/img/1300.jpg
+  image: /public/img/chicago.jpg
   color: '#949667'
   description: >
     Code for Uchicago Trading Competition.
