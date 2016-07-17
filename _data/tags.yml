@@ -1,0 +1,26 @@
+# Add an entry, where the key represents a slug.
+# Provide at least a `name` value and optionally `image`, `color` and `description`.
+# Markdown is enabled for `description`, however don't use more than one paragraph (enforced by `>`)
+#
+# Example:
+#
+# ~~~
+# mytag:
+#   name: My Tag
+#   description: >
+#     *My Tag* is an example of how to define a custom tag.
+# ~~~
+
+UCTC:
+  name: UCTC
+  image: /public/img/1300.jpg
+  color: '#949667'
+  description: >
+    Code for Uchicago Trading Competition.
+
+Trading:
+  name: Trading
+  image: /public/img/81.jpg
+  color: '#949667'
+  description: >
+    Trading algorithm/research.
