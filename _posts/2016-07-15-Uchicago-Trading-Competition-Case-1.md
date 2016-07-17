@@ -1,6 +1,8 @@
 ---
 layout: post
 title: code1
+image: http://qwtel.com/hydejack/public/img/hyde.jpg
+color: '#949667'
 tags: [UCTC]
 ---
 ###2016 Uchicago Trading Competition Case1
