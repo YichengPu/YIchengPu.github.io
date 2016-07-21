@@ -36,11 +36,9 @@ author:
   photo:          http://i4.piimg.com/567571/43913612226f0b5c.jpg
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  about:          |
-  Hi, I'm Yicheng Pu.
-   
-
-
+  about:       |
+    Hi, I'm Yicheng.   
+ 
 kramdown:
   math_engine: mathjax
   math_engine_opts:
