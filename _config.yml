@@ -12,7 +12,8 @@ title:            YichengPu
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:       >
-  Personal blog of Yicheng Pu. 
+  借我那把枪吧 或者借我五毛钱
+  南方的江山太娇媚 容易遮上我的眼
 
 # The tags listed as entries in the sidebar
 sidebar_tags:     [UCTC, Trading]
@@ -36,8 +37,8 @@ author:
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:          |
-    借我那把枪吧 或者借我五毛钱
-    南方的江山太娇媚 容易遮上我的眼
+  Hi, I'm Yicheng Pu.
+   
 
 
 kramdown:
