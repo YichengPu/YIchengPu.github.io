@@ -89,7 +89,7 @@ plt.axvspan(p+1, 19, alpha=0.4, color='green')
 
 
 
-![png](https://github.com/YichengPu/YIchengPu.github.io/blob/master/public/img/id_trends/2.png)
+![png](https://raw.githubusercontent.com/YichengPu/YIchengPu.github.io/master/public/img/id_trends/2.png)
 
 
 ## Main part
