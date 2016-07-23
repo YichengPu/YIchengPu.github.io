@@ -65,7 +65,7 @@ plt.plot(np.arange(20),history[0:20].values,'o', np.arange(20),ynew, '-')
 
 
 
-![png](https://github.com/YichengPu/YIchengPu.github.io/public/img/id_trends/1.jpg)
+![png](https://github.com/YichengPu/YIchengPu.github.io/blob/master/public/img/id_trends/1.png)
 
 
 ## Identify trends in one period
@@ -89,7 +89,7 @@ plt.axvspan(p+1, 19, alpha=0.4, color='green')
 
 
 
-![png](https://github.com/YichengPu/YIchengPu.github.io/public/img/id_trends/2.jpg)
+![png](https://github.com/YichengPu/YIchengPu.github.io/blob/master/public/img/id_trends/2.png)
 
 
 ## Main part
@@ -180,7 +180,7 @@ for i, j in enumerate(trend):
 ```
 
 
-![png](https://github.com/YichengPu/YIchengPu.github.io/public/img/id_trends/3.jpg)
+![png](https://github.com/YichengPu/YIchengPu.github.io/blob/master/public/img/id_trends/3.png)
 
 
 
