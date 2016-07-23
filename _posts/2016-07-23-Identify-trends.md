@@ -60,13 +60,12 @@ plt.plot(np.arange(20),history[0:20].values,'o', np.arange(20),ynew, '-')
 
 
 
-    [<matplotlib.lines.Line2D at 0xc9df898>,
-     <matplotlib.lines.Line2D at 0xc9df978>]
 
 
 
 
-![png](output_4_2.png)
+
+![png]({{ site.url }}public/img/id_trends/1.jpg)
 
 
 ## Identify trends in one period
@@ -85,12 +84,12 @@ plt.axvspan(p+1, 19, alpha=0.4, color='green')
 
 
 
-    <matplotlib.patches.Polygon at 0xc99f240>
 
 
 
 
-![png](output_6_1.png)
+
+![png]({{ site.url }}public/img/id_trends/2.jpg)
 
 
 ## Main part
@@ -181,7 +180,7 @@ for i, j in enumerate(trend):
 ```
 
 
-![png](output_10_0.png)
+![png]({{ site.url }}/public/img/id_trends/3.jpg)
 
 
 
