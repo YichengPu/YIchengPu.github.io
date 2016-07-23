@@ -65,7 +65,7 @@ plt.plot(np.arange(20),history[0:20].values,'o', np.arange(20),ynew, '-')
 
 
 
-![png](https://github.com/YichengPu/YIchengPu.github.io/blob/master/public/img/id_trends/1.png)
+![png](https://raw.githubusercontent.com/YichengPu/YIchengPu.github.io/blob/master/public/img/id_trends/1.png)
 
 
 ## Identify trends in one period
