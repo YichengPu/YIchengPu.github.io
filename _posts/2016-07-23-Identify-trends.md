@@ -93,7 +93,6 @@ plt.axvspan(p+1, 19, alpha=0.4, color='green')
 
 
 ## Main part
-Here is the main part.\\
 * First we need to set a window size to split the historical data into smaller periods.
 * Then we can treat each small periods like we did above.
 * We store the results in "trend" list. 
