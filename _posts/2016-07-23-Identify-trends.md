@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Identify up/down trends in historical stock data
-image: http://www.urbansplatter.com/wp-content/uploads/2014/06/91326403.jpg
+image: /public/img/gmt.jpg
 color: '#949667'
 tags: [Trading]
 ---
