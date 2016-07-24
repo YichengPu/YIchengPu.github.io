@@ -180,7 +180,7 @@ for i, j in enumerate(trend):
 ```
 
 
-![png](https://github.com/YichengPu/YIchengPu.github.io/blob/master/public/img/id_trends/3.png)
+![png](https://raw.githubusercontent.com/YichengPu/YIchengPu.github.io/master/public/img/id_trends/3.png)
 
 
 
