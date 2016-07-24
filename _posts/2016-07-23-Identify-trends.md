@@ -69,7 +69,7 @@ plt.plot(np.arange(20),history[0:20].values,'o', np.arange(20),ynew, '-')
 
 
 ## Identify trends in one period
-After we get the regreesion line, since the first coefficient is negative, we know in this period the up trend comes before the down trend, then by finding the maximum, we split this period into two trends.(red for up and green for down)
+After we get the regreesion line, since the first coefficient is negative, we know in this period the up trend comes before the down trend, then by finding the maximum of historical data, we split this period into two trends.(red for up and green for down)
 
 
 ```python
@@ -93,7 +93,7 @@ plt.axvspan(p+1, 19, alpha=0.4, color='green')
 
 
 ## Main part
-Here is the main part.
+Here is the main part.\\
 * First we need to set a window size to split the historical data into smaller periods.
 * Then we can treat each small periods like we did above.
 * We store the results in "trend" list. 
