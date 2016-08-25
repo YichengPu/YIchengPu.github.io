@@ -1,8 +1,0 @@
----
-layout: post
-title: 2016 Uchicago Trading Competition Cases( Introduction)
-image: http://www.urbansplatter.com/wp-content/uploads/2014/06/91326403.jpg
-color: '#949667'
-tags: [UCTC]
----
-# 
